@@ -1,4 +1,4 @@
-# analise-exploratoria-temperatura-umidade
+# Analise-exploratoria-temperatura-umidade - Estudo de caso
 Análise exploratória (EDA) de dados de temperatura e umidade
 
 

@@ -1,2 +1,78 @@
 # analise-exploratoria-temperatura-umidade
 Análise exploratória (EDA) de dados de temperatura e umidade
+
+
+
+## 📑 Materiais e Métodos
+
+### 🔹 Coleta e preparação dos dados
+- Dados horários, mensais e anuais de temperatura e umidade coletados por dispositivo X (a confirmar com Leandro).
+- Associados a ano, mês e hora do dia para análises temporais.
+
+### 🔹 Ferramentas
+- **Python** → processamento e análise
+- **pandas** → manipulação de dados
+- **matplotlib** e **seaborn** → visualização gráfica
+
+O código completo está disponível em:  
+[📂 Acessar notebooks e scripts](notebooks/)
+
+---
+
+## 📈 Principais Análises
+
+### 1️⃣ Estatísticas anuais
+- Máximo, mínimo, média, percentis 5 e 95.
+- Frequência de dias extremos:
+  - **Dia quente** → temperatura diária média > P95
+  - **Dia frio** → temperatura diária média < P5
+
+📌 **Tabela 1** – Estatísticas anuais de temperatura (°C)  
+📌 **Tabela 2** – Estatísticas anuais de umidade (%)
+
+---
+
+### 2️⃣ Identificação de outliers e extremos mensais
+- **Outliers** → definidos pelo intervalo interquartílico (IQR)
+- **Extremos** → definidos pelos percentis 5 e 95
+- Representação no boxplot:
+  - 🔴 Vermelho → extremos
+  - 🟡 Amarelo → outliers
+
+📊 **Figura 1** – Distribuição mensal de temperatura  
+📊 **Figura 2** – Distribuição mensal de umidade
+
+---
+
+### 3️⃣ Variação horária da temperatura
+- Diferença entre valores máximos e mínimos para cada hora e mês
+- Visualização em **heatmap**
+
+📊 **Figura 3** – Heatmap de variação horária de temperatura (°C)
+
+---
+
+## 📌 Resultados e Interpretação
+- Tendência de **aumento gradual** das temperaturas máximas, mínimas e médias (2022–2025)
+- Aumento de amplitude térmica em meses específicos, com destaque para outubro de 2024
+- Grande variabilidade de umidade (15–96%), com períodos secos e úmidos alternados
+- Implicações para a preservação da arte rupestre:
+  - Dilatação/contração térmica das rochas
+  - Expansão/retração mineral devido à umidade
+
+---
+
+## 📷 Gráficos e Tabelas
+As figuras e tabelas geradas estão disponíveis na pasta [`figures/`](figures/).  
+Exemplo de inclusão no Markdown:
+
+![Boxplot Temperatura](figures/boxplot_temperatura.png)
+![Heatmap Variação Horária](figures/heatmap_variacao_horaria.png)
+
+---
+
+## 📜 Licença
+Este projeto está licenciado sob a **Apache License 2.0** – veja o arquivo [LICENSE](LICENSE) para mais detalhes.  
+Você pode usar e modificar o código, desde que mantenha o devido **crédito ao autor**.
+
+---

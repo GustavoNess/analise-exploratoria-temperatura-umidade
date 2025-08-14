@@ -1,4 +1,4 @@
-# Analise-exploratoria-temperatura-umidade - Estudo de caso
+# Analise-exploratoria-temperatura-umidade - Mudanças Climáticas - Estudo de caso do Parque Nacional Serra da Capivara (Piauí - Brasil).
 Análise exploratória (EDA) de dados de temperatura e umidade
 
 

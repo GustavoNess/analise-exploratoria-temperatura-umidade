@@ -1,4 +1,4 @@
-# Conservação e Monitorização do Patrimônio Rupestre no Microclima da Caatinga frente às Mudanças Climáticas:  o caso do Parque Nacional Serra da Capivara (Piauí - Brasil).
+# Microclima da Caatinga frente às Mudanças Climáticas:  o caso do Parque Nacional Serra da Capivara (Piauí - Brasil).
 
 Análise exploratória (EDA) de dados de temperatura e umidade
 

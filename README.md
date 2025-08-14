@@ -41,6 +41,8 @@ O código completo está disponível em:
 📊 **Figura 1** – Distribuição mensal de temperatura  
 📊 **Figura 2** – Distribuição mensal de umidade
 
+
+
 ---
 
 ### 3️⃣ Variação horária da temperatura

@@ -6,8 +6,7 @@ Análise exploratória (EDA) de dados de temperatura e umidade
 ## 📑 Materiais e Métodos
 
 ### 🔹 Coleta e preparação dos dados
-- Dados horários, mensais e anuais de temperatura e umidade coletados por dispositivo X (a confirmar com Leandro).
-- Associados a ano, mês e hora do dia para análises temporais.
+ O método de coleta dos dados foi feito com dataloggers da marca Akso modelo 172, foram registrados durante o período de estudo a cada hora a temperatura em graus celsius (ºC) e umidade relativa do ar (%).
 
 ### 🔹 Ferramentas
 - **Python** → processamento e análise

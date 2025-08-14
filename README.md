@@ -13,7 +13,7 @@ Análise exploratória (EDA) de dados de temperatura e umidade
 - **pandas** → manipulação de dados
 - **matplotlib** e **seaborn** → visualização gráfica
 
-O código completo está disponível em:  
+O código completo, assim como os gráficos e tabelas está disponível em:  
 (https://github.com/GustavoNess/analise-exploratoria-temperatura-umidade/blob/main/EDA_temperatura_umidade.ipynb.ipynb)
 
 ---

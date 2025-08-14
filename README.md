@@ -73,6 +73,14 @@ Exemplo de inclusão no Markdown:
 
 ---
 
+📬Contato
+
+Gustavo Nunes Pacheco
+
+✉️ Email: gustavoo.np@hotmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/gustavo-nunes-pacheco
+
 ## 📜 Licença
 Este projeto está licenciado sob a **Apache License 2.0** – veja o arquivo [LICENSE](LICENSE) para mais detalhes.  
 Você pode usar e modificar o código, desde que mantenha o devido **crédito ao autor**.
